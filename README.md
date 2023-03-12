@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amol</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolkalra&label=Profile%20views&color=0e75b6&style=flat" alt="amolkalra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amolkalra_" target="blank"><img src="https://img.shields.io/twitter/follow/amolkalra_?logo=twitter&style=for-the-badge" alt="amolkalra_" /></a> </p>
 
-- 🔭 I’m currently working on **Netmeds**
-
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, JavaScript, CSS**
+- 💬 Ask me about **HTML, JavaScript, CSS, Linux, mySQL**
 
 - 📫 How to reach me **amolkalra94@gmail.com**
 
